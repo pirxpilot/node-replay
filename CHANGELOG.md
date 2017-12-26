@@ -1,3 +1,14 @@
+
+## VERSION 2.1.5  2017-12-26
+
+CHANGED rename to @pirxpilot/replay
+
+CHANGED remove babel and gulp, switch to Makefile based build
+
+FIXED  Remove Content-Length after unzipping data
+
+FIXED Ensure HTTP.get is also patched on recent node versions
+
 ## Version 2.1.4 2017-10-19
 
 ADDED control over which responses are recorded #68
