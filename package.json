@@ -1,5 +1,5 @@
 {
-  "name": "replay",
+  "name": "@pirxpilot/replay",
   "description": "When API testing slows you down: record and replay HTTP responses like a boss",
   "version": "2.1.4",
   "config": {
@@ -50,13 +50,7 @@
     "mocha": "^4.0.1",
     "request": "^2.74.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/assaf/node-replay"
-  },
-  "bugs": {
-    "url": "https://github.com/assaf/node-replay/issues"
-  },
+  "repository": "pirxpilot/node-replay",
   "licenses": [
     {
       "type": "MIT",
