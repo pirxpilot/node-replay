@@ -43,5 +43,8 @@
       "type": "MIT",
       "url": "https://github.com/assaf/node-replay/blob/master/MIT-LICENSE"
     }
+  ],
+  "files": [
+    "src"
   ]
 }
