@@ -1,8 +1,16 @@
-default : test
-.PHONY : test new-certificates
+# lint and test
+
+default : check
+.PHONY : test check lint new-certificates
+
+
+check : lint test
+
+lint :
+	eslint src test
 
 test :
-	npm test
+	mocha
 
 
 # Generate new SSL certificates
