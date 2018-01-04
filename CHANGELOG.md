@@ -1,4 +1,8 @@
 
+## VERSION 2.2.0  2018-01-03
+
+ADDED support for matching body with regular expression
+
 ## VERSION 2.1.5  2017-12-26
 
 CHANGED rename to @pirxpilot/replay
