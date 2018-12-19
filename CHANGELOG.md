@@ -1,4 +1,8 @@
 
+## VERSION 2.2.1  2018-10-18
+
+FIXED HTTPs request for node 10
+
 ## VERSION 2.2.0  2018-01-03
 
 ADDED support for matching body with regular expression
